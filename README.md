@@ -1,5 +1,17 @@
-### Hi there 👋
+### Hi I am Guillo 👋
 
+![IMG_0417](https://user-images.githubusercontent.com/96705374/147861433-7259fa33-132a-452b-b4ba-2c87bb43be5d.JPG)
+
+```js
+cost guiamadoreal = { 
+  Technologies: 'data'; 'statistics'; 'mathematics';
+  Passions: 'data'; 'statistics'; 'mathematics';
+  
+  You can find me at:
+  [blog] https://lediamantdigital.wixsite.com/startup
+  [instagram] 
+  @guiamadoreal
+  
 <!--
 **guiamadoreal/guiamadoreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![guiamadoreal's github stats](https://github-readme-stats.vercel.app/api?username=guiamadoreal&show_icons=true&hide_border=true)
+
+**Current Status Quo**
