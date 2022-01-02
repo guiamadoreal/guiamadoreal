@@ -6,8 +6,9 @@
 cost guiamadoreal = { 
   Technologies: 'sql'; 'python'; 'azure';
   Passions: 'data'; 'statistics'; 'mathematics';
-                    }
-
+}
+````
+<!---
   My project: Le Diamant
   [website] https://lediamantdigital.wixsite.com/startup
   [facebook] @guiamadoreal
