@@ -5,7 +5,7 @@
 ```js
 cost guiamadoreal = { 
   Technologies: 'sql'; 'python'; 'azure';
-  Passions: 'data'; 'statistics'; 'mathematics';
+  Passions: 'data'; 'statistics'; 'cloud';
 }
 ````
 
