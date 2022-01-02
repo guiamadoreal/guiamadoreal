@@ -9,7 +9,8 @@ cost guiamadoreal = {
 }
 ````
 
-  My project: Le Diamant
+  My project: Le Diamant -  Where I talk about technology
+  
   - [website] https://lediamantdigital.wixsite.com/startup
   - [facebook] @guiamadoreal
   - [LinkedIn:] https://linkedin.com/in/guilhermeamador
