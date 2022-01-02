@@ -10,10 +10,10 @@ cost guiamadoreal = {
 ````
 
   My project: Le Diamant
-  [website] https://lediamantdigital.wixsite.com/startup
-  [facebook] @guiamadoreal
-  LinkedIn: https://linkedin.com/in/guilhermeamador
-  CV: guiamadoreal.github.io
+  - [website] https://lediamantdigital.wixsite.com/startup
+  - [facebook] @guiamadoreal
+  - [LinkedIn:] https://linkedin.com/in/guilhermeamador
+  - [CV:] guiamadoreal.github.io
    
 [![guiamadoreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiamadoreal)](https://github.com/anuraghazra/github-readme-stats)
 <!---
