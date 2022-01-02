@@ -1,7 +1,5 @@
 ### 💻 Hi I am Guillo 🦾
 
-![IMG_0417](https://user-images.githubusercontent.com/96705374/147861433-7259fa33-132a-452b-b4ba-2c87bb43be5d.JPG)
-
 ```js
 cost guiamadoreal = { 
   Technologies: 'sql'; 'python'; 'azure';
@@ -17,6 +15,8 @@ cost guiamadoreal = {
   - [CV:] guiamadoreal.github.io
    
 [![guiamadoreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiamadoreal)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+![IMG_0417](https://user-images.githubusercontent.com/96705374/147861433-7259fa33-132a-452b-b4ba-2c87bb43be5d.JPG)
 <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiamadoreal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
