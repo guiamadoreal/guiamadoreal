@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![guiamadoreal's github stats](https://github-readme-stats.vercel.app/api?username=guiamadoreal&show_icons=true&hide_border=true)
-[![guiamadoreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiamadoreal)](https://github.com/guiamadoreal/github-readme-stats)
+[![guiamadoreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiamadoreal)](https://github.com/anuraghazra/github-readme-stats)
 **Current Status Quo**
