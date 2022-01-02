@@ -2,6 +2,8 @@
 
 ![IMG_0417](https://user-images.githubusercontent.com/96705374/147861433-7259fa33-132a-452b-b4ba-2c87bb43be5d.JPG)
 
+[![guiamadoreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiamadoreal)](https://github.com/anuraghazra/github-readme-stats)
+
 ```js
 cost guiamadoreal = { 
   Technologies: 'data'; 'statistics'; 'mathematics';
@@ -26,5 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![guiamadoreal's GitHub stats](https://github-readme-stats.vercel.app/api?username=guiamadoreal)](https://github.com/anuraghazra/github-readme-stats)
+
 **Current Status Quo**
